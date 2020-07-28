@@ -1,19 +1,12 @@
 # Jobs
 # VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: ST Unitas 
+  position: 커넥츠개발본부 / Server team
+  duration: Oct, 2019 &mdash; Present
+  summary: Python, Go 언어로 서버 프로그램을 개발하고 있습니다.	<ul class="resume-item-list"><li>Go 언어 프레임워크 echo 기반 채팅 플랫폼 개발</li><li>Python Django 기반 QnA API 서버 개발</li></ul>
 
 # Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
-
-
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: WatchTek
+  position: SW 연구소 / 연동 서비스 개발팀
+  duration: Jan, 2019 &mdash; Oct, 2019
+  summary: Java Spring F/W 로 ETL 프로그램을 개발하였습니다.	<ul class="resume-item-list"><li>홍익대 EMS 솔루션 구축 프로젝트</li><li>IBK ITSM 솔루션 구축 프로젝트</li><li>경찰청 EMS 솔루션 유지보수 프로젝트</li><li>기술보증기금 ITSM 솔루션 구축 프로젝트</li></ul>
