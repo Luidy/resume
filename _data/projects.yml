@@ -12,7 +12,7 @@
   role: ST Unitas
   duration: 2019.12 &mdash; 2020.02
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: 소개 <ul class="resume-item-list"><li>기존 커넥츠앱의 QnA 메뉴의 단방향성 질문 ->답변 기능 개선</li><li>질문-답변을 1:N으로, 각각의 답변을 지속적으로 관리하는 서비스로 변경</li></ul>기능 <ul class="resume-item-list"><li>답변의 질문추가, 답변채택, 답변의 댓글작성 기능 제공</li></ul>역할/기여 <ul class="resume-item-list"><li>DB 테이블 설계 &#58; 기존 QnA 에서 사용중인 DB테이블 파악하고 현재 사용중인 테이블의 변경 없이 추가 테이블 설계</li><li>API 스펙 디자인 &#58; 서비스에 필요한 기능 파악 및 API 스펙 설계</li><li>코드 리팩토링 &#58; 기능 개발 이후 코드 스타일 정리 및 컨트롤러에서 수행했던 비즈니스 로직을 별도의 레이어에서 동작하도록 리팩토링 진행</li></ul> 기술<ul class="resume-item-list"><li>python &#58; python 웹 프레임워크인 django framework 로 서버 개발</li><li>RESTful api &#58; QnA 에서 사용되는 리소스를 기반으로 RESTful api 설계</li><li>swagger &#58; API 스펙의 자동 문서화 관리를 위해 swagger 사용</li><li>k8s &#58; QnA API서버를 k8s 클러스터에 컨터이너식 애플리케이션으로 배포 및 관리 (Amazon eks 서비스이용)</li><li>docker &#58; 서버 애플리케이션을 docker 이미지로 관리</li></ul>
 
 
 
