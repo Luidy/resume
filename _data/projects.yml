@@ -25,3 +25,8 @@
   # url: "#"
   description: 소개 <ul class="resume-item-list"><li>IBK ERP시스템과 IT 서비스 관리 시스템(ITSM) 솔루션 간의 인사/자원 데이터 연동</li><li>데이터 연동을 위한 ETL 프로그램 추가 설치</li></ul>기능 <ul class="resume-item-list"><li>주기적으로 IBK ERP 시스템의 인사/자원 정보를 ITSM 데이터베이스로 ETL 수행</li></ul>역할/기여 <ul class="resume-item-list"><li>추출 및 적재 데이터 합의 &#58; IBK ERP 시스템의 데이터베이스 구조 파악 및 추출/적재 데이터 합의 참여</li><li>ETL 프로그램 개발 &#58; ERP 시스템에 저장된 인사/자원 정보를 ITSM 에서도 동일하게 사용할 수 있는 ETL 프로그램 개발</li></ul> 기술<ul class="resume-item-list"><li>java &#58; java 배치처리 프레임워크인 spring batch 로 개발</li><li>jenkins &#58; ETL 프로그램을 jenkins 로 빌드하여 관리</li></ul>
 
+- project: 코웨이 그룹웨어 인사 데이터 연동 프로젝트
+  role: WatchTek
+  duration: 2019.03 &mdash; 2020.04
+  # url: "#"
+  description: 소개 <ul class="resume-item-list"><li>코웨이 그룹웨어 시스템과 IT 서비스 관리 시스템(ITSM) 솔루션 간의 인사 데이터 연동</li><li>자동 데이터 연동을 위한 ETL 프로그램 추가</li></ul>기능 <ul class="resume-item-list"><li>주기적으로 코웨이 그룹웨어 시스템의 인사 정보를 ITSM 데이터베이스로 ETL 수행</li></ul>역할/기여 <ul class="resume-item-list"><li>추출 및 적재 데이터 합의 &#58; 코웨이 그룹웨어 시스템의 데이터베이스 구조 파악 및 추출/적재 데이터 합의 참여</li><li>ETL 프로그램 개발 &#58; 그룹웨어 시스템에 저장된 인사 정보를 ITSM 에서도 동일하게 사용할 수 있는 ETL 프로그램 개발</li></ul> 기술<ul class="resume-item-list"><li>TOS &#58; java 기반의 자동 ETL 을 지원하는 Talend Open Studio 로 개발</li></ul>
