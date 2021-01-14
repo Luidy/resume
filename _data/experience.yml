@@ -3,7 +3,7 @@
 - company: ST Unitas 
   position: 에듀테크연구소 / Class 서버팀
   duration: Oct, 2019 &mdash; Present
-  summary: 교육 지원 서비스 및 에듀테크 기업(700명~ Tech 100명~) <ul class="resume-item-list"><li>교육 관리 서비스용 채팅 플랫폼 개발</li><li>글로벌 QnA API 서버 개발</li><li>Skill Keywords &#58; Go, gRPC, echo F/W, Python, Django, Celery, Redis</li></ul>
+  summary: 교육 지원 서비스 및 에듀테크 기업(700명~ Tech 100명~) <ul class="resume-item-list"><li>교육 관리 서비스용 채팅 플랫폼 개발</li><li>글로벌 QnA API 서버 개발</li><li>Skill Keywords &#58; Go, gRPC, echo F/W, Python, Django, Celery, Redis, Amazon SQS, RabbitMQ</li></ul>
 
 # Director of Digital Stratgy
 - company: WatchTek
